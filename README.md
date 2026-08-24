@@ -1,1 +1,1 @@
-# KogniVera-Hackathon-2026
+# Agentic AI Travel Concierge — Autonomous Planning & Booking
